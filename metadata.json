@@ -1,0 +1,6 @@
+{
+  "name": "Koholint's Lullaby - Link's Awakening",
+  "description": "A tribute diorama web game to The Legend of Zelda: Link's Awakening. Explore Koholint Island, talk with Marin, collect the Siren Instruments, and play the Ballad of the Wind Fish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
